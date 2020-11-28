@@ -22,7 +22,7 @@ Start your ssh-agent and add your new ssh key
 
 Add your ssh to github
 
-check your connection to GitHub
+check your connection to **GitHub**
 
     ssh -vT git@github.com
 

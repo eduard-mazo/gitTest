@@ -18,7 +18,7 @@ Start your ssh-agent and add your new ssh key
 
     eval "$(ssh-agent -s)"
 
-    ssh-add your/user/path/to/.ssh/nameSSHfile
+    ssh-add /c/users/ASUS/.ssh/github
 
 Add your ssh to github
 
